@@ -7,3 +7,5 @@ The code was decompiled from Unity's 2017.1 + 5.6.0beta DLL with DNSpy and backp
 In order to check if a track works, I added a simple example to test audio and animation track.
 
 Feel free to make the timeline editor window and make a PR.
+
+<img width="863" height="599" alt="image" src="https://github.com/user-attachments/assets/b75751f5-3798-4462-84eb-522ff1f4ceb6" />
